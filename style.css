@@ -128,3 +128,8 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+#confirm-bus-ticket-section{
+    display: none;
+    height: 500px;
+    margin: 10% 25%;
+}
